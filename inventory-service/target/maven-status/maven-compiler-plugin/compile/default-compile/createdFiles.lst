@@ -1,0 +1,6 @@
+com/sandyhandle/webapp/Inventoryservice/model/Inventory$InventoryBuilder.class
+com/sandyhandle/webapp/Inventoryservice/service/InventoryService.class
+com/sandyhandle/webapp/Inventoryservice/controller/InventoryController.class
+com/sandyhandle/webapp/Inventoryservice/repository/InventoryRepository.class
+com/sandyhandle/webapp/Inventoryservice/model/Inventory.class
+com/sandyhandle/webapp/Inventoryservice/InventoryServiceApplication.class

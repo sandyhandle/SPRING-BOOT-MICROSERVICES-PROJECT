@@ -1,0 +1,21 @@
+
+server:
+  port: 8082
+
+spring:
+  application:
+    name: inventory-service
+  datasource:
+    url: ${PSQL_DATABASE_URL}
+    username: ${PSQL_USER_NAME}
+    password: ${PSQL_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: true
+    main:
+      web-application-type: servlet

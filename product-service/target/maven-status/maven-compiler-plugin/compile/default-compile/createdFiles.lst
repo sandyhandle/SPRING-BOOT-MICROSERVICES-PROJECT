@@ -1,0 +1,10 @@
+com/sandyhandle/webapp/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/sandyhandle/webapp/productservice/model/Product.class
+com/sandyhandle/webapp/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/sandyhandle/webapp/productservice/model/Product$ProductBuilder.class
+com/sandyhandle/webapp/productservice/ProductServiceApplication.class
+com/sandyhandle/webapp/productservice/dto/ProductRequest.class
+com/sandyhandle/webapp/productservice/repository/ProductRepository.class
+com/sandyhandle/webapp/productservice/service/ProductService.class
+com/sandyhandle/webapp/productservice/dto/ProductResponse.class
+com/sandyhandle/webapp/productservice/controller/ProductController.class
